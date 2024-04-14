@@ -31,8 +31,7 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.logo-change,
-.change-second {
+.logo-change {
 color: #2e2f42;
 }
 
@@ -201,6 +200,10 @@ color: #434455;
 background: #2e2f42;
 }
 .footer-logo{
+    color: #4d5ae5;
+}
+
+.change-second {
     color: #f4f4fd;
 }
 
